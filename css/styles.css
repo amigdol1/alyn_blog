@@ -9,3 +9,15 @@ body {
 li {
   font-size: 12px;
 }
+
+p.p2 {
+  color: green;
+}
+
+p.p3 {
+  color: blue;
+}
+
+ul.lists {
+  color: coral;
+}
